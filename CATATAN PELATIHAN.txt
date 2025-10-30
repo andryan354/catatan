@@ -5,7 +5,8 @@ BISMILLAH...
 git remote add origin https://github.com/andryan354/catatan.git ( Untuk konek ke akun git )
 
 git status : untuk cek apakah ada perubahan ( delete file ,rename file ) yang ada di repository
-git init
 git add . / git add -A : untuk menandai file yang akan di tambah
 git commit -m "update catatan" : untuk memberi nama setiap ada update isi file dengan nama file yang sudah ada di repo
 git push -u origin master : untuk ngepush source code yang ada di local ke reposiroty atau menyamakan isi source code yang ada di local ke repository
+
+git init : untuk buat penyimpanan baru
