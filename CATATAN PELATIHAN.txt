@@ -1,0 +1,5 @@
+CATATAN TIM 9
+
+git status : untuk cek apakah ada perubahan ( delete file ,rename file ) yang ada di repository
+git commit : untuk memberi nama setiap akan melakukan perubahan
+git push : untuk ngepush source code yang ada di local ke reposiroty atau menyamakan isi source code yang ada di local ke repository
