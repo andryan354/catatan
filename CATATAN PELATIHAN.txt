@@ -1,5 +1,6 @@
 CATATAN TIM 9
 
+BISMILLAH...
 
 git remote add origin https://github.com/andryan354/catatan.git ( Untuk konek ke akun git )
 
