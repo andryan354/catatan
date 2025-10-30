@@ -10,3 +10,13 @@ git commit -m "update catatan" : untuk memberi nama setiap ada update isi file d
 git push -u origin master : untuk ngepush source code yang ada di local ke reposiroty atau menyamakan isi source code yang ada di local ke repository
 
 git init : untuk buat penyimpanan baru
+
+======================================================================================================================================================
+
+- Open node.js command prompt
+- D:
+- cd D:\REACT\
+- npx create-react-app belajar-react ( Buat Project Baru )
+- cd D:\REACT\belajar-react
+- npm start
+- auto open Browser http://localhost:3000/
