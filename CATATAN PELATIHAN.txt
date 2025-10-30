@@ -16,7 +16,7 @@ git init : untuk buat penyimpanan baru
 - Open node.js command prompt
 - D:
 - cd D:\REACT\
-- npx create-react-app belajar-react ( Buat Project Baru )
+- npx create-react-app belajar-react ( Jika Buat Project Baru )
 - cd D:\REACT\belajar-react
 - npm start
 - auto open Browser http://localhost:3000/
